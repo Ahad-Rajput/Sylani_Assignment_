@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 900;
+    display: flex;
+}
+.about_section {
+    background: rgb(255, 235, 232);
+}
+.SU{
+    color: #E53536;
+}
+.nav-text {
+    display: flex;
+    color:#E53536;
+}
+.btn_1{
+    border:none;
+    background-color: rgb(253, 221, 226);
+    border-radius: 50px;
+    color: #E53536;
+    padding: 15px;
+    margin-top: 100px;
+}
+.person{
+    overflow-x: hidden;
+}
+.text .by{
+    color: #E53536;  
+}
+.text{
+    font-size: 60px;
+}
+.btn_2{
+    border: none;
+    background-color: #E53536;
+    border-radius: 10%;
+    color: whitesmoke;
+    padding: 15px 35px;
+}
+.te{
+    text-align: center;
+    color: #E53536;
+    margin-top: 125px;
+}
+.et{
+    text-align: center;
+    margin-top: 20px;
+}
